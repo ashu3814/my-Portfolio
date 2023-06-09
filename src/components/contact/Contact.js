@@ -33,6 +33,9 @@ const Contact = () => {
             to_name: 'Recipient Name',
             from_name: username,
             message: message,
+            subject: subject,
+            email:email,
+            phoneNumber:phoneNumber,
           },
           'zemcbEp3hGFG9lUrV'
         )
