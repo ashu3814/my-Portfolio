@@ -1,4 +1,4 @@
-# My Poetfolio
+# My Portfolio
 
 This project was bootstrapped with Create React App.
 
